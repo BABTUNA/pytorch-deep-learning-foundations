@@ -3,6 +3,6 @@ __pycache__/
 .venv/
 .ipynb_checkpoints/
 data/raw/
-checkpoints/
+/checkpoints/
 runs/
 .DS_Store
