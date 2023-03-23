@@ -1,0 +1,5 @@
+run,model,optimizer,learning_rate,augmentation,val_loss,val_accuracy
+1,mlp,adam,0.001,false,0.412,0.861
+2,small_cnn,adam,0.001,false,0.286,0.904
+3,regularized_cnn,adam,0.001,true,0.241,0.921
+4,regularized_cnn,sgd,0.010,true,0.258,0.916
